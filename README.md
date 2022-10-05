@@ -13,3 +13,5 @@ Prompt창에서 Jupyter nbconvert --to script 파일이름.ipynb 코드로 해�
 ![image](https://user-images.githubusercontent.com/104436260/193986071-4c2302a7-2610-4935-9c26-5e8e11005ef7.png)
 
 pyinstaller 설치
+
+이후 pyinstaller -F 실행파일.py로 실행 파일 만들기
