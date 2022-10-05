@@ -9,3 +9,7 @@ Prompt창에서 Jupyter nbconvert --to script 파일이름.ipynb 코드로 해�
 ![image](https://user-images.githubusercontent.com/104436260/193985833-4199dd83-1b40-4b4e-85ec-92239dc9d0b1.png)
 
 가상환경 활성화
+
+![image](https://user-images.githubusercontent.com/104436260/193986071-4c2302a7-2610-4935-9c26-5e8e11005ef7.png)
+
+pyinstaller 설치
