@@ -5,3 +5,7 @@
 해당 ipynb파일 py로 바꿔주기
 
 Prompt창에서 Jupyter nbconvert --to script 파일이름.ipynb 코드로 해당파일들 py파일로 변환
+
+![image](https://user-images.githubusercontent.com/104436260/193985833-4199dd83-1b40-4b4e-85ec-92239dc9d0b1.png)
+
+가상환경 활성화
