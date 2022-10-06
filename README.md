@@ -18,4 +18,6 @@ Prompt창에서 Jupyter nbconvert --to script 파일이름.ipynb 코드로 해�
 
 pyinstaller 설치
 
-이후 pyinstaller -F 실행파일.py로 실행 파일 만들기
+이후 pyinstaller -F 실행파일.py로 실행 파일 만들기->실행파일 하나만 만들때 사용하는 코드
+
+pyinstaller 실행파일.py -> 실행파일 두개로 만들기
