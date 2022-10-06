@@ -21,3 +21,7 @@ pyinstaller 설치
 이후 pyinstaller -F 실행파일.py로 실행 파일 만들기->실행파일 하나만 만들때 사용하는 코드
 
 pyinstaller 실행파일.py -> 실행파일 두개로 만들기
+
+![image](https://user-images.githubusercontent.com/104436260/194214784-8692832f-6f3b-4988-8f14-5fdc89673e1b.png)
+
+실행파일 변환후 실행파일이 있는 디렉토리로 주소 변경 dist->training_loop로 
