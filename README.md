@@ -25,3 +25,6 @@ pyinstaller 실행파일.py -> 실행파일 두개로 만들기
 ![image](https://user-images.githubusercontent.com/104436260/194214784-8692832f-6f3b-4988-8f14-5fdc89673e1b.png)
 
 실행파일 변환후 실행파일이 있는 디렉토리로 주소 변경 dist->training_loop로 
+
+프롬프트 창에 training_loop.exe를 입력하고 실행하면 파이썬 소스코드를 보여주지않고 코드 실행 가능
+
